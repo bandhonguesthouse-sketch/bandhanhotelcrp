@@ -1,0 +1,6 @@
+{
+  "name": "Bandhan Guest House",
+  "description": "Premium boutique guest house offering comfortable AC rooms, warm hospitality, homestyle dining, and prime central location access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
